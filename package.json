@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/lee715/ajv-helper#readme",
   "dependencies": {
+    "commander": "^2.19.0",
     "graceful-logger": "^0.4.3"
   }
 }
