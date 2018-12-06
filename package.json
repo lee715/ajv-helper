@@ -18,6 +18,9 @@
     "schema",
     "tool"
   ],
+  "bin": {
+    "ajvp": "./bin/ajvp"
+  },
   "author": "lee715",
   "license": "MIT",
   "bugs": {
