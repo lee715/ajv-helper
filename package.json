@@ -1,6 +1,6 @@
 {
   "name": "ajv-helper",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "a helper to convert your config to a ajv schema",
   "main": "index.js",
   "directories": {
