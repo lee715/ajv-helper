@@ -28,7 +28,12 @@
   },
   "homepage": "https://github.com/lee715/ajv-helper#readme",
   "dependencies": {
+    "ajv": "^6.6.1",
     "commander": "^2.19.0",
     "graceful-logger": "^0.4.3"
+  },
+  "devDependencies": {
+    "config": "^3.0.0",
+    "mocha": "^5.2.0"
   }
 }

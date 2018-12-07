@@ -1,0 +1,13 @@
+{
+	"selfEmail": "xxx",
+	"mainHost": "xxx",
+	"port": 8000,
+	"defaultAvatar": "xxx",
+	"redis": {
+		"host": "xxx"
+	},
+	"whiteHosts": [
+		"xxx",
+		"xxx"
+	]
+}
